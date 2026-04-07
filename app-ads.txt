@@ -1,3 +1,5 @@
+google.com, pub-4207313756538279, DIRECT, f08c47fec0942fa0
+
 vungle.com,69d4b1097dbb2c94758d7f8f,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 contextweb.com,562852,RESELLER,89ff185a4c4e857c
